@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|d:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\notes\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|solutionrelative:notes\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|d:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\notes\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|solutionrelative:notes\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|d:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\notes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|solutionrelative:notes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|d:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\notes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|solutionrelative:notes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|d:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\notes\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C7D07F-7BF6-40D0-80C8-490C60CEDD3D}|Notes\\Notes.csproj|solutionrelative:notes\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\Notes\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\MainPage.xaml.cs",
+              "ToolTip": "D:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\Notes\\MainPage.xaml.cs",
+              "RelativeToolTip": "Notes\\MainPage.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:22:47.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\Notes\\App.xaml",
+              "RelativeDocumentMoniker": "Notes\\App.xaml",
+              "ToolTip": "D:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\Notes\\App.xaml",
+              "RelativeToolTip": "Notes\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T12:22:39.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\Notes\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Notes\\MauiProgram.cs",
+              "ToolTip": "D:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\Notes\\MauiProgram.cs",
+              "RelativeToolTip": "Notes\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:22:37.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\Notes\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Notes\\MainPage.xaml",
+              "ToolTip": "D:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\Notes\\MainPage.xaml",
+              "RelativeToolTip": "Notes\\MainPage.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T12:22:31.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\Notes\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\App.xaml.cs",
+              "ToolTip": "D:\\repos\\mslearn-dotnetmaui-create-user-interface-xaml\\exercise1\\Notes\\App.xaml.cs",
+              "RelativeToolTip": "Notes\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:22:43.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
